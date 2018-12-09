@@ -1,0 +1,3 @@
+run file run.bash in directory : .../02_simulate
+
+    ./run.bash
